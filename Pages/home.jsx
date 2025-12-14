@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Input } from "@/components/ui/input.jsx";
-import { Button } from "@/components/ui/button.jsx";
+import { Input } from "@/Components/ui/input.jsx";
+import { Button } from "@/Components/ui/button.jsx";
 import { Download, QrCode, Sparkles } from "lucide-react";
 import QRCodeLib from "qrcode";
 
